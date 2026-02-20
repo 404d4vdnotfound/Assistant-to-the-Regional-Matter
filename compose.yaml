@@ -1,0 +1,13 @@
+services:
+  assistant-to-the-regional-matter:
+    image: ghcr.io/404d4vdnotfound/assistant-to-the-regional-matter:latest
+    restart: unless-stopped
+    network_mode: host
+    environment:
+      - HAMH_HOME_ASSISTANT_URL=http://homeassistant.local:8123/
+      - HAMH_HOME_ASSISTANT_ACCESS_TOKEN=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiI4NmZiYWQ4YWU2YzU0NmRhOWFhNzJhNTM2ZGI0ZGY0MSIsImlhdCI6MTc3MTU2NTQ4MSwiZXhwIjoyMDg2OTI1NDgxfQ.QhGIFuRGv8eQLLwgDKMeoxVP00zxHZjmvOymo4WQKV4
+      - HAMH_LOG_LEVEL=info
+      - HAMH_HTTP_PORT=8482
+    volumes:
+      - $PWD/Assistant-to-the-Regional-Matter:/data
+

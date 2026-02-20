@@ -42,5 +42,5 @@ body:
       options:
         - label: I have reviewed the [documentation](https://t0bst4r.github.io/Assistant-to-the-Regional-Matter/) and the linked troubleshooting guide.
           required: true
-        - label: I have searched the [issues](https://github.com/t0bst4r/Assistant-to-the-Regional-Matter/issues) for a similar problem.
+        - label: I have searched the [issues](https://github.com/404d4vdnotfound/Assistant-to-the-Regional-Matter/issues) for a similar problem.
           required: true

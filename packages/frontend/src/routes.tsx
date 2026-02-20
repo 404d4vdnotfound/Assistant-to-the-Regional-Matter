@@ -12,7 +12,7 @@ export const navigation = {
   createBridge: "/bridges/create",
   editBridge: (bridgeId: string) => `/bridges/${bridgeId}/edit`,
 
-  githubRepository: "https://github.com/t0bst4r/Assistant-to-the-Regional-Matter/",
+  githubRepository: "https://github.com/404d4vdnotfound/Assistant-to-the-Regional-Matter/",
   documentation: documentationUrl,
   faq: {
     multiFabric: `${documentationUrl}/connect-multiple-fabrics`,

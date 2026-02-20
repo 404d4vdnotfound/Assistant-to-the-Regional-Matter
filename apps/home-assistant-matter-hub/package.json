@@ -31,10 +31,10 @@
     "smart-home"
   ],
   "bugs": {
-    "url": "https://github.com/t0bst4r/Assistant-to-the-Regional-Matter/issues"
+    "url": "https://github.com/404d4vdnotfound/Assistant-to-the-Regional-Matter/issues"
   },
   "license": "Apache-2.0",
-  "repository": "github:t0bst4r/Assistant-to-the-Regional-Matter",
+  "repository": "github:404d4vdnotfound/Assistant-to-the-Regional-Matter",
   "scripts": {
     "cleanup": "npx rimraf node_modules dist pack LICENSE README.md",
     "build": "node build.js",

@@ -65,7 +65,7 @@ export class Options {
     return {
       basicInformation: {
         vendorId: VendorId(0xfff1),
-        vendorName: "t0bst4r",
+        vendorName: "404d4vdnotfound",
         productId: 0x8000,
         productName: "MatterHub",
         productLabel: "Home Assistant Assistant to the Regional Matter",

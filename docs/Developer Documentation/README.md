@@ -142,4 +142,4 @@ Exposed via Express (`matterApi`):
 
 ## Contact & Maintainer
 
-See [GitHub Discussions](https://github.com/t0bst4r/Assistant-to-the-Regional-Matter/discussions/825) for handover or maintainer inquiries.
+See [GitHub Discussions](https://github.com/404d4vdnotfound/Assistant-to-the-Regional-Matter/discussions/825) for handover or maintainer inquiries.

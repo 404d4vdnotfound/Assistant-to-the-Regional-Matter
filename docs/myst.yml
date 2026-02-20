@@ -2,7 +2,7 @@
 version: 1
 project:
   id: d11d5cfb-20bb-476f-ae19-14c66a03d139
-  github: https://github.com/t0bst4r/Assistant-to-the-Regional-Matter
+  github: https://github.com/404d4vdnotfound/Assistant-to-the-Regional-Matter
   toc:
     - file: README.md
     - title: Getting Started
@@ -30,4 +30,4 @@ site:
     logo: assets/hamh-logo-large.png
   nav:
     - title: GitHub
-      url: https://github.com/t0bst4r/Assistant-to-the-Regional-Matter
+      url: https://github.com/404d4vdnotfound/Assistant-to-the-Regional-Matter
