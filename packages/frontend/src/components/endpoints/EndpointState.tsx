@@ -1,7 +1,7 @@
 import {
   ClusterId,
   type EndpointData,
-} from "@home-assistant-matter-hub/common";
+} from "@Assistant-to-the-Regional-Matter/common";
 import ExpandMoreIcon from "@mui/icons-material/ExpandMore";
 import Accordion from "@mui/material/Accordion";
 import AccordionDetails from "@mui/material/AccordionDetails";

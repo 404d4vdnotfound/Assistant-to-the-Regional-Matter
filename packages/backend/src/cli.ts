@@ -19,7 +19,7 @@ export async function cli(argv: string[]): Promise<void> {
   const cli = yargs(hideBin(argv));
   cli
     .env("HAMH_")
-    .scriptName("home-assistant-matter-hub")
+    .scriptName("Assistant-to-the-Regional-Matter")
     .version()
     .strict()
     .recommendCommands()

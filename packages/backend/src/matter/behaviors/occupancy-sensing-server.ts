@@ -1,7 +1,7 @@
 import type {
   HomeAssistantEntityInformation,
   HomeAssistantEntityState,
-} from "@home-assistant-matter-hub/common";
+} from "@Assistant-to-the-Regional-Matter/common";
 import { OccupancySensingServer as Base } from "@matter/main/behaviors";
 import { OccupancySensing } from "@matter/main/clusters";
 import { applyPatchState } from "../../utils/apply-patch-state.js";

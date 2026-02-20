@@ -1,4 +1,4 @@
-import { BridgeStatus } from "@home-assistant-matter-hub/common";
+import { BridgeStatus } from "@Assistant-to-the-Regional-Matter/common";
 import type { AlertColor } from "@mui/material/Alert";
 import Alert from "@mui/material/Alert";
 

@@ -1,4 +1,4 @@
-import type { HomeAssistantEntityInformation } from "@home-assistant-matter-hub/common";
+import type { HomeAssistantEntityInformation } from "@Assistant-to-the-Regional-Matter/common";
 import { RvcOperationalStateServer as Base } from "@matter/main/behaviors/rvc-operational-state";
 import { RvcOperationalState } from "@matter/main/clusters/rvc-operational-state";
 import { applyPatchState } from "../../utils/apply-patch-state.js";

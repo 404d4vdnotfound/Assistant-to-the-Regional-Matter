@@ -1,7 +1,7 @@
 import type {
   ClimateDeviceAttributes,
   HomeAssistantEntityState,
-} from "@home-assistant-matter-hub/common";
+} from "@Assistant-to-the-Regional-Matter/common";
 import {
   type HumidityMeasurementConfig,
   HumidityMeasurementServer,

@@ -1,4 +1,4 @@
-import type { HomeAssistantEntityState } from "@home-assistant-matter-hub/common";
+import type { HomeAssistantEntityState } from "@Assistant-to-the-Regional-Matter/common";
 import { HumiditySensorDevice } from "@matter/main/devices";
 import { BasicInformationServer } from "../../../../behaviors/basic-information-server.js";
 import { HomeAssistantEntityBehavior } from "../../../../behaviors/home-assistant-entity-behavior.js";

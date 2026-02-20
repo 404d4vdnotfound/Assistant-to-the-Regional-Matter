@@ -3,7 +3,7 @@ import type {
   HomeAssistantDeviceRegistry,
   HomeAssistantEntityRegistry,
   HomeAssistantFilter,
-} from "@home-assistant-matter-hub/common";
+} from "@Assistant-to-the-Regional-Matter/common";
 import { keys, pickBy, values } from "lodash-es";
 import type {
   HomeAssistantDevices,

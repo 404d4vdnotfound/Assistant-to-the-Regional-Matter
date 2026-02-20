@@ -2,7 +2,7 @@
 
 ## Overview
 
-Home Assistant Matter Hub (HAMH) is an addon for Home Assistant that acts as a Matter bridge, exposing Home Assistant devices to Matter controllers (Alexa, Apple Home, Google Home) via local communication. No cloud or custom skills are required.
+Home Assistant Assistant to the Regional Matter (HAMH) is an addon for Home Assistant that acts as a Matter bridge, exposing Home Assistant devices to Matter controllers (Alexa, Apple Home, Google Home) via local communication. No cloud or custom skills are required.
 
 This documentation is intended for developers taking over or contributing to the project. It covers architecture, technologies, and key concepts, especially those related to the Matter protocol and bridging logic.
 
@@ -136,10 +136,10 @@ Exposed via Express (`matterApi`):
 
 - [Matter Protocol Specification](https://csa-iot.org/all-solutions/matter/)
 - [Home Assistant Developer Docs](https://developers.home-assistant.io/)
-- [HAMH User Documentation](https://t0bst4r.github.io/home-assistant-matter-hub)
+- [HAMH User Documentation](https://t0bst4r.github.io/Assistant-to-the-Regional-Matter)
 
 ---
 
 ## Contact & Maintainer
 
-See [GitHub Discussions](https://github.com/t0bst4r/home-assistant-matter-hub/discussions/825) for handover or maintainer inquiries.
+See [GitHub Discussions](https://github.com/t0bst4r/Assistant-to-the-Regional-Matter/discussions/825) for handover or maintainer inquiries.

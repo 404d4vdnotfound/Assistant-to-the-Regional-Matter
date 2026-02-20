@@ -24,7 +24,7 @@ controllers.
    ![Home Hubs and Bridges in Apple Home](../assets/ConnectMultipleFabrics/multiple-fabrics-02-apple-home-settings.png)
 
 3. **Select Your Bridge**
-   From the list of hubs, choose your Matter hub:
+   From the list of hubs, choose your Assistant to the Regional Matter:
 
    ![List of Hubs and Bridges in Apple Home](../assets/ConnectMultipleFabrics/multiple-fabrics-03-apple-home-connected-hubs.png)
 

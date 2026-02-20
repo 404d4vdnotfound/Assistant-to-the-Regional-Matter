@@ -1,6 +1,6 @@
-# Home-Assistant-Matter-Hub
+# Assistant-to-the-Regional-Matter
 
-!["Home-Assistant-Matter-Hub"](./assets/hamh-logo-small.png)
+!["Assistant-to-the-Regional-Matter"](./assets/hamh-logo-small.png)
 
 ---
 
@@ -54,9 +54,9 @@ If you need more assistance on the topic, please have a look at the following ex
 
 ### Videos
 
-#### YouTube-Video on "HA Matter HUB/BRIDGE 😲 👉 Das ändert alles für ALEXA und GOOGLE Nutzer" (🇩🇪)
+#### YouTube-Video on "HA Assistant to the Regional Matter/BRIDGE 😲 👉 Das ändert alles für ALEXA und GOOGLE Nutzer" (🇩🇪)
 
-[![HA Matter HUB/BRIDGE 😲 👉 Das ändert alles für ALEXA und GOOGLE Nutzer](https://img.youtube.com/vi/yOkPzEzuVhM/mqdefault.jpg)](https://www.youtube.com/watch?v=yOkPzEzuVhM)
+[![HA Assistant to the Regional Matter/BRIDGE 😲 👉 Das ändert alles für ALEXA und GOOGLE Nutzer](https://img.youtube.com/vi/yOkPzEzuVhM/mqdefault.jpg)](https://www.youtube.com/watch?v=yOkPzEzuVhM)
 
 #### YouTube-Video on "Alexa et Google Home dans Home Assistant GRATUITEMENT grâce à Matter" (🇫🇷)
 

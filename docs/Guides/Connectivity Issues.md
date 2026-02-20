@@ -1,6 +1,6 @@
 # Troubleshooting for Network and Hub Connectivity Issues
 
-If you're experiencing connectivity issues with your Matter Hub and voice assistants like Apple Home, Google Home, or
+If you're experiencing connectivity issues with your Assistant to the Regional Matter and voice assistants like Apple Home, Google Home, or
 Alexa, follow this guide to address common problems.
 
 ## 1. Network Configuration and Firewall Settings
@@ -25,7 +25,7 @@ flow freely between all network segments, and IPv6 must be fully operational acr
 
 ### IGMP Snooping
 
-If not configured properly, IGMP Snooping may cause the suppression of mDNS messages. 
+If not configured properly, IGMP Snooping may cause the suppression of mDNS messages.
 For this reason, it is recommended to disable it on networking devices such as switches and, if applicable, Hypervisors & Access Points.
 
 ## 2. Ecosystem and Device Compatibility / Requirements
@@ -39,7 +39,7 @@ For this reason, it is recommended to disable it on networking devices such as s
 
 ### Google Home
 
-- **Matter Hub Requirements**: Google Home requires a dedicated Matter hub, such as a **Google Nest** or
+- **Assistant to the Regional Matter Requirements**: Google Home requires a dedicated Assistant to the Regional Matter, such as a **Google Nest** or
   **Google Mini**, for Matter integration.
 - **Offline Devices**: If Google Home displays devices as "offline":
   - Check that a compatible Google Home device (e.g., Google Home Mini) is connected to your local network.

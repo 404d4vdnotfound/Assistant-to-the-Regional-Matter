@@ -1,4 +1,4 @@
-import type { HomeAssistantEntityState } from "@home-assistant-matter-hub/common";
+import type { HomeAssistantEntityState } from "@Assistant-to-the-Regional-Matter/common";
 import {
   DestroyedDependencyError,
   TransactionDestroyedError,

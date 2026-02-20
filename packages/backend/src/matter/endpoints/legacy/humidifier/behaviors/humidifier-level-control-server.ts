@@ -1,7 +1,7 @@
 import type {
   HomeAssistantEntityState,
   HumidiferDeviceAttributes,
-} from "@home-assistant-matter-hub/common";
+} from "@Assistant-to-the-Regional-Matter/common";
 import { HomeAssistantEntityBehavior } from "../../../../behaviors/home-assistant-entity-behavior.js";
 import {
   type LevelControlConfig,

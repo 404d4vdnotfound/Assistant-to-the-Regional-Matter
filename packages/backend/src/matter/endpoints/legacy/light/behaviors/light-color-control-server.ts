@@ -3,7 +3,7 @@ import {
   type HomeAssistantEntityState,
   type LightDeviceAttributes,
   LightDeviceColorMode,
-} from "@home-assistant-matter-hub/common";
+} from "@Assistant-to-the-Regional-Matter/common";
 import { ColorControl } from "@matter/main/clusters";
 import type { ColorInstance } from "color";
 import {

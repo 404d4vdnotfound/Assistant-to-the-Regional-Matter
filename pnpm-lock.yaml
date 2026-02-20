@@ -82,7 +82,7 @@ importers:
         specifier: ^4.0.18
         version: 4.0.18(@types/node@24.10.1)(tsx@4.21.0)(yaml@2.8.1)
 
-  apps/home-assistant-matter-hub:
+  apps/Assistant-to-the-Regional-Matter:
     dependencies:
       '@matter/general':
         specifier: 0.16.7
@@ -133,13 +133,13 @@ importers:
         specifier: 18.0.0
         version: 18.0.0
     devDependencies:
-      '@home-assistant-matter-hub/backend':
+      '@Assistant-to-the-Regional-Matter/backend':
         specifier: workspace:*
         version: link:../../packages/backend
-      '@home-assistant-matter-hub/common':
+      '@Assistant-to-the-Regional-Matter/common':
         specifier: workspace:*
         version: link:../../packages/common
-      '@home-assistant-matter-hub/frontend':
+      '@Assistant-to-the-Regional-Matter/frontend':
         specifier: workspace:*
         version: link:../../packages/frontend
       '@types/lodash-es':
@@ -154,7 +154,7 @@ importers:
 
   packages/backend:
     dependencies:
-      '@home-assistant-matter-hub/common':
+      '@Assistant-to-the-Regional-Matter/common':
         specifier: workspace:*
         version: link:../common
       '@matter/general':
@@ -261,7 +261,7 @@ importers:
       '@fontsource/roboto':
         specifier: ^5.2.9
         version: 5.2.9
-      '@home-assistant-matter-hub/common':
+      '@Assistant-to-the-Regional-Matter/common':
         specifier: workspace:*
         version: link:../common
       '@mui/icons-material':

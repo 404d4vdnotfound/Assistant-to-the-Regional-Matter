@@ -1,43 +1,29 @@
-# Home-Assistant-Matter-Hub
-
-!["Home-Assistant-Matter-Hub"](./docs/assets/hamh-logo-small.png)
-
----
-
-> [!IMPORTANT]  
-> ⚠️ **Project Status: End of Maintenance**
->
-> As of **January 2026**, this project is no longer actively maintained.
->
-> I previously announced a search for a new maintainer, but unfortunately no one has stepped forward
-> to take over the project. Due to personal time constraints, I am no longer able to continue development or provide support.
->
-> **What this means:**
-> - ❌ No further feature development
-> - ❌ No bug fixes or updates
-> - ❌ No guaranteed support
->
-> The repository will remain available for reference and forking.
->
-> 💡 I would be very happy to see this project continued by the community.  
-> If you plan to fork it and continue development: **may the best fork prevail.**
->
-> Thank you to everyone who used, tested, and contributed to this project ❤️
+# Assistant to the Regional Matter
 
 
----
+
+***
+
+> [!IMPORTANT]
+> Assistant to the Regional Matter is a community‑driven fork of the original `Assistant-to-the-Regional-Matter` project.
+> The upstream project is end‑of‑maintenance as of **January 2026**, so this fork exists to keep the ideas alive, experiment, and shamelessly abuse puns.
+
+No guarantees, no SLAs, just vibes.
+
+***
 
 ## About
 
-This project simulates bridges to publish your entities from Home Assistant to any Matter-compatible controller like
-Alexa, Apple Home or Google Home. Using Matter, those can be connected easily using local communication without the need
-of port forwarding etc.
+Assistant to the Regional Matter pretends to be a very serious bridge that publishes your Home Assistant entities to any Matter‑compatible controller (Apple Home, Alexa, Google Home, etc.), while quietly wiring all the chaos together over local Matter.[1][2]
 
----
+It lets you expose things like vacuums, lights, switches, and more from HA into modern ecosystems **without cloud round‑trips, port‑forwarding nightmares, or ritual sacrifices to random vendor apps**.[3][1]
+
+***
 
 ## Documentation
 
-Please see the [documentation](https://t0bst4r.github.io/home-assistant-matter-hub) for installation instructions,
-known issues, limitations and guides.
+Until this fork grows its own docs, most installation details, caveats, and wiring patterns still follow the original project.
 
----
+- Original docs (architecture and setup): [Assistant-to-the-Regional-Matter documentation](https://t0bst4r.github.io/Assistant-to-the-Regional-Matter)[4]
+
+Fork‑specific notes, experiments, and “don’t try this in prod” guides will live here as this thing evolves into its final form (or glorious failure).

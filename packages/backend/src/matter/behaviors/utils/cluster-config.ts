@@ -1,4 +1,4 @@
-import type { HomeAssistantEntityState } from "@home-assistant-matter-hub/common";
+import type { HomeAssistantEntityState } from "@Assistant-to-the-Regional-Matter/common";
 import type { Agent } from "@matter/main";
 import type { HomeAssistantAction } from "../../../services/home-assistant/home-assistant-actions.js";
 

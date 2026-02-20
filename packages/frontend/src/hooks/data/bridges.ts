@@ -2,7 +2,7 @@ import type {
   BridgeDataWithMetadata,
   CreateBridgeRequest,
   UpdateBridgeRequest,
-} from "@home-assistant-matter-hub/common";
+} from "@Assistant-to-the-Regional-Matter/common";
 import { useCallback, useMemo } from "react";
 import {
   createBridge,

@@ -3,7 +3,7 @@ import type {
   HomeAssistantDeviceRegistry,
   HomeAssistantEntityRegistry,
   HomeAssistantEntityState,
-} from "@home-assistant-matter-hub/common";
+} from "@Assistant-to-the-Regional-Matter/common";
 import { getStates } from "home-assistant-js-websocket";
 import { fromPairs, keyBy, keys, uniq, values } from "lodash-es";
 import { Service } from "../../core/ioc/service.js";

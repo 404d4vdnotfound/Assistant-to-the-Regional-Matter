@@ -1,4 +1,4 @@
-# Behaviors in Home Assistant Matter Hub
+# Behaviors in Home Assistant Assistant to the Regional Matter
 
 ## Overview
 Behaviors are modular components that implement Matter clusters and map Home Assistant entity state/actions to Matter endpoints. They are used to compose endpoints and define their functionality.
@@ -45,7 +45,7 @@ import { OnOffServer } from "@matter/main/behaviors";
 
 // Custom implementation for the OnOffServer behavior
 export class CustomOnOffServer extends OnOffServer {
-  
+
   override initialize() {
     // Init the behavior
     this.state.onOff = true;
@@ -54,7 +54,7 @@ export class CustomOnOffServer extends OnOffServer {
   override on() {
     // device was turned on via matter
   }
-  
+
   override off() {
     // device was turned off via matter
   }

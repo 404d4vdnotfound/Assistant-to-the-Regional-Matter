@@ -1,4 +1,4 @@
-import type { HomeAssistantEntityInformation } from "@home-assistant-matter-hub/common";
+import type { HomeAssistantEntityInformation } from "@Assistant-to-the-Regional-Matter/common";
 import { DoorLockServer as Base } from "@matter/main/behaviors";
 import { DoorLock } from "@matter/main/clusters";
 import { applyPatchState } from "../../utils/apply-patch-state.js";

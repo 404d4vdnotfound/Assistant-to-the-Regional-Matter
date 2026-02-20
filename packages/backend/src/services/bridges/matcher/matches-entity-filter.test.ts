@@ -2,7 +2,7 @@ import {
   type HomeAssistantDeviceRegistry,
   type HomeAssistantEntityRegistry,
   HomeAssistantMatcherType,
-} from "@home-assistant-matter-hub/common";
+} from "@Assistant-to-the-Regional-Matter/common";
 import { describe, expect, it } from "vitest";
 import { testMatcher } from "./matches-entity-filter.js";
 

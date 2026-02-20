@@ -1,4 +1,4 @@
-import type { SensorDeviceAttributes } from "@home-assistant-matter-hub/common";
+import type { SensorDeviceAttributes } from "@Assistant-to-the-Regional-Matter/common";
 import { TemperatureSensorDevice } from "@matter/main/devices";
 import { HomeAssistantConfig } from "../../../../../services/home-assistant/home-assistant-config.js";
 import { Temperature } from "../../../../../utils/converters/temperature.js";

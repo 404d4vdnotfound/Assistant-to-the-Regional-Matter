@@ -27,7 +27,7 @@ async function buildBackend() {
     minify: false,
     sourcemap: "linked",
     plugins: [
-      externalizeAllPackagesExcept(["@home-assistant-matter-hub/common"]),
+      externalizeAllPackagesExcept(["@Assistant-to-the-Regional-Matter/common"]),
       doNotBundleFile(src, ["bootstrap.js"]),
     ],
   });

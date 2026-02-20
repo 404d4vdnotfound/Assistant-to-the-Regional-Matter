@@ -1,4 +1,4 @@
-import type { BridgeDataWithMetadata } from "@home-assistant-matter-hub/common";
+import type { BridgeDataWithMetadata } from "@Assistant-to-the-Regional-Matter/common";
 import Grid from "@mui/material/Grid";
 import { BridgeCard } from "./BridgeCard.tsx";
 
